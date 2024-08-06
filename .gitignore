@@ -1,3 +1,4 @@
 # Ignore all target files and test-ledger
 target/
 test-ledger/
+node_modules/
